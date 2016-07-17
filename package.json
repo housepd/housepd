@@ -3,18 +3,18 @@
   "version": "1.0.0",
   "description": "The Javascript Site Generator.",
   "keywords": "client-side, javascript, site-generator",
-  "homepage": "https://github.com/cdmedia/cms.js",
+  "homepage": "https://github.com/housepd/js/cms.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cdmedia/cms.js.git"
+    "url": "git://github.com/housepd/housepd.github.io.git"
   },
-  "author": "Chris Diana",
+  "author": "HousePD",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cdmedia/cms.js/issues"
+    "url": "https://github.com/housepd/"
   },
   "devDependencies": {
     "grunt": "~0.4.4",
