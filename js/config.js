@@ -15,10 +15,10 @@ $(function() {
     siteAuthor: 'HousePD',
 
     // Navigation items
-    siteNavItems: [
-      { name: 'Github', href: 'https://github.com/housepd', newWindow: false},
-      { name: 'About'}
-    ],
+    //siteNavItems: [
+     // { name: 'Github', href: 'https://github.com/housepd', newWindow: false},
+     // { name: 'About'}
+   // ],
 
     // Posts folder name
     postsFolder: 'posts',
